@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BattleSimulator",
+    "\\BattleSimulator\\BattleSimulator.Core",
+    "\\BattleSimulator\\BattleSimulator.Tests"
+  ],
+  "SelectedNode": "\\BattleSimulator\\BattleSimulator.Core\\Models",
+  "PreviewInSolutionExplorer": false
+}

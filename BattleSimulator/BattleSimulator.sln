@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleSimulator.Core", "BattleSimulator.Core\BattleSimulator.Core.csproj", "{6B10C5A2-2E20-4D2C-9F89-1C2A8A6C9E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleSimulator.Tests", "BattleSimulator.Tests\BattleSimulator.Tests.csproj", "{E5F1E0B4-3D03-4F77-856B-B6F3E148B6C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B10C5A2-2E20-4D2C-9F89-1C2A8A6C9E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B10C5A2-2E20-4D2C-9F89-1C2A8A6C9E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B10C5A2-2E20-4D2C-9F89-1C2A8A6C9E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B10C5A2-2E20-4D2C-9F89-1C2A8A6C9E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F1E0B4-3D03-4F77-856B-B6F3E148B6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F1E0B4-3D03-4F77-856B-B6F3E148B6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F1E0B4-3D03-4F77-856B-B6F3E148B6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F1E0B4-3D03-4F77-856B-B6F3E148B6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8A9A03D-E9D7-4D33-BF80-FB3E19F0C4D0}
+	EndGlobalSection
+EndGlobal
